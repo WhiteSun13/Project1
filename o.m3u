@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1, мой пк
 http://192.168.0.103:8080
+#EXTINF:-1, тест
+https://ana-yurt.online/uploads/multfilmi/mogila_svetlyachkov.mp4

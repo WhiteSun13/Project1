@@ -46,11 +46,11 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX19PPC6Yc4xlJnzdyLV4o44sACgrKfCv1u
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyMjA3Mjg2M15BMl5BanBnXkFtZTcwNDY5NjU1Mg@@._V1_UX1820_CR0,0,1820,2680_AL_.jpg", 5.9 Где-то там (2009) <Криминал, Триллер, Драма>
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-5K3AZ_k5BXy_rkOkAraUXR2xjUMJ7ZNfO-X3nBKYFbYJ5gmgxbm7300z5Gg1MUpwUJfwQkNCTwXICD7dRXc7E28TbLadrwvWEBbKbUWvDjsLO6dJdP7I1K2gsTXPbWya65eWFU2_tmoycK6En9ediZNO0Brqjz0vzcvl7i3aBn5ppAmYqJl7IKciGvR1Gs-8fXY6r-aToNBidiMAxZBK8mpCYu0lqi1cbMMOdo7pnU_oBt6ssUMqj78tpXVDf7Ju_wSL8dj1X5_P9l8t5j0lMw1t2Gg8OayLYS8AI9zNi-N_PPhisNGO041xNuvPMz3wReOXsc8E8AhdVzzuIPeXKpURwraAgo64/616422924ef78/5473be90b705a855c4753a48a36f9fde9765c176c2bcadb14bd9e2a84d92cf0e/720p/playlist.m3u8?vsid=01eff5b274cdcdffbb7ceb8f6819db4d720f17555f0dxWEBx1483x1713236874&vpuid=jzipgjbkmh&source_index=0&t=1713236875169&abd=1
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://xl.movieposterdb.com/10_09/1993/108550/xl_108550_2e54c90f.jpg", 7.9 Что гложет Гилберта Грейпа (1993) <Драма>
-https://www.terabox.com/share/streaming?uk=4401664969044&shareid=65145437267&type=M3U8_FLV_264_480&fid=1093509252887064&sign=2ee3caedca123073c046123bae254b925b65aaf2&timestamp=1713234641&jsToken=C2FF80C315F00252AE37B1AAEB904DCEB9577DD98501516E9DA8FC73DC9034EC58FBEFFEB2CF7D27C06B12DE3D7935A1E7324CA5406D08D3F03B390755CC6D62&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
+https://raw.githubusercontent.com/WhiteSun13/Project1/main/M/Gilbert.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://xl.movieposterdb.com/20_01/2018/7938128/xl_7938128_17187329.jpg", 7.1 Чудесный призрак (2018) <комедия, фэнтези, преступление, мелодрама>
 https://raw.githubusercontent.com/WhiteSun13/Project1/main/M/WG.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://xl.movieposterdb.com/08_01/2008/836700/xl_836700_fba76da2.jpg", 6.6 Летние часы (2008)
-https://www.terabox.com/share/streaming?uk=4401664969044&shareid=4221749437&type=M3U8_FLV_264_480&fid=487262926449781&sign=7542c9bcc80ccb2bad30d187f1ac7ee18fcba513&timestamp=1713233659&jsToken=C2FF80C315F00252AE37B1AAEB904DCEB9577DD98501516E9DA8FC73DC9034EC58FBEFFEB2CF7D27C06B12DE3D7935A1E7324CA5406D08D3F03B390755CC6D62&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
+https://raw.githubusercontent.com/WhiteSun13/Project1/main/M/letochas.m3u8
 #EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2018/07/30/2018-07-30_09-42-23.png", "Memet Nuzet ""Ana ile bala arasında"""
 //www.youtube.com/embed/lXF-KFRWjWQ
 #EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2018/08/02/2018-08-02_16-42-54.png", Safet Seydametov - Köy yaşaışi

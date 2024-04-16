@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://ana-yurt.online/images/2018/07/26/1efaf6318fa844bb1ef8f16c528a82.jpg", 1+1 или Неприкасаемые
 https://ana-yurt.online/uploads/film/1_plus_1_neprikasaemiy.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2020/03/04/23628.jpg", Чужой голос
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2020/03/04/23628.jpg", Чужой голос
 https://ana-yurt.online/uploads/chuzhoy-golos.mp4
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://ana-yurt.online/images/2018/07/26/3136346-650062.jpg", Безумная свадьба
 https://ana-yurt.online/uploads/film/bezumnaya_svadba.mp4
@@ -55,91 +55,91 @@ https://raw.githubusercontent.com/WhiteSun13/Project1/main/M/letochas.m3u8
 //www.youtube.com/embed/lXF-KFRWjWQ
 #EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2018/08/02/2018-08-02_16-42-54.png", Safet Seydametov - Köy yaşaışi
 //www.youtube.com/embed/ZtDsdg6q1yo
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2020/02/19/2067.jpg", Рапунцель
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2020/02/19/2067.jpg", Рапунцель
 http://ana-yurt.online/uploads/rapuncel.m4v
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2018/07/25/q3cc3df727b62gq15k74l.jpg", Аладдин
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2018/07/25/q3cc3df727b62gq15k74l.jpg", Аладдин
 https://ana-yurt.online/uploads/multfilmi/Aladin.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2020/02/19/The_return_of_jafar_poster.jpg", Аладдин. Возвращение Джафара
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2020/02/19/The_return_of_jafar_poster.jpg", Аладдин. Возвращение Джафара
 https://ana-yurt.online/uploads/alladin-vozvrashenie-jafara.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2018/07/25/download.jpg", Балто
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2018/07/25/download.jpg", Балто
 https://ana-yurt.online/uploads/multfilmi/Balto.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2020/03/04/Balto2.jpg", Балто 2: В поисках волка
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2020/03/04/Balto2.jpg", Балто 2: В поисках волка
 https://ana-yurt.online/uploads/balto-v-poiskah-volka.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2020/03/04/108264.jpg", Как приручить дракона 2
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2020/03/04/108264.jpg", Как приручить дракона 2
 https://ana-yurt.online/uploads/drakoni.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2020/03/04/ledi-i-brodyaga.jpg", Леди и бродяга
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2020/03/04/ledi-i-brodyaga.jpg", Леди и бродяга
 https://ana-yurt.online/uploads/ledi-i-brodyaga.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2020/03/04/Lisa_stroitel.jpg", Лиса строитель
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2020/03/04/Lisa_stroitel.jpg", Лиса строитель
 https://ana-yurt.online/uploads/lisa-stroitel.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2020/03/04/download-1.jpeg", Валли
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2020/03/04/download-1.jpeg", Валли
 https://ana-yurt.online/uploads/valli.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2020/03/04/260px-__.jpg", Шрек
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2020/03/04/260px-__.jpg", Шрек
 https://ana-yurt.online/uploads/shrek.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2020/03/06/Shark_tail_DVD.jpg", Морская братва
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2020/03/06/Shark_tail_DVD.jpg", Морская братва
 https://ana-yurt.online/uploads/morskaya-brigama.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2020/03/06/1027078391.jpg", Муха цокотуха на крымскотатарском
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2020/03/06/1027078391.jpg", Муха цокотуха на крымскотатарском
 https://ana-yurt.online/uploads/muha-cokotuha.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2023/01/09/Screenshot-2023-01-08-at-17.27.15.png", Самолеты 
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2023/01/09/Screenshot-2023-01-08-at-17.27.15.png", Самолеты 
 https://ana-yurt.online/uploads/multfilmi/uchaqlar.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2023/01/09/Screenshot-2023-01-08-at-17.56.08.png", Палкан и Шавка
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2023/01/09/Screenshot-2023-01-08-at-17.56.08.png", Палкан и Шавка
 https://ana-yurt.online/uploads/pflkan-i-shavka.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2023/01/09/Screenshot-2023-01-08-at-18.01.20.png", Могила светлячков
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2023/01/09/Screenshot-2023-01-08-at-18.01.20.png", Могила светлячков
 https://ana-yurt.online/uploads/multfilmi/mogila_svetlyachkov.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2018/07/26/rio_2011_5998_poster.jpg", Рио
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2018/07/26/rio_2011_5998_poster.jpg", Рио
 https://ana-yurt.online/uploads/multfilmi/rio.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2023/01/09/Screenshot-2023-01-08-at-18.17.17.png", Рио 2
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2023/01/09/Screenshot-2023-01-08-at-18.17.17.png", Рио 2
 https://ana-yurt.online/uploads/multfilmi/rio2.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2023/01/09/Screenshot-2023-01-08-at-18.42.00.png", Нилоя крымскотатарском языке
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2023/01/09/Screenshot-2023-01-08-at-18.42.00.png", Нилоя крымскотатарском языке
 https://ana-yurt.online/uploads/niloya1-2.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2023/01/09/Screenshot-2023-01-08-at-18.46.21.png", Cпящая красавица крымскотатарском языке
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2023/01/09/Screenshot-2023-01-08-at-18.46.21.png", Cпящая красавица крымскотатарском языке
 https://ana-yurt.online/uploads/multfilmi/spyashaya_krasavica.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2018/07/26/multfilm-kung-fu-panda-otzyvy-1445323191.jpg", Кунг-фу панда
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2018/07/26/multfilm-kung-fu-panda-otzyvy-1445323191.jpg", Кунг-фу панда
 https://ana-yurt.online/uploads/multfilmi/kungfu_panda.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2018/07/25/wed0d54778fdeld94k80p.jpg", Рататуй
-https://ana-yurt.online/uploads/multfilmi/1_ratatuy.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2018/07/26/84020.jpg", Буратино
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2018/07/25/wed0d54778fdeld94k80p.jpg", Рататуй
+https://streaming.disk.yandex.net/hls/U2FsdGVkX19PRpQ0xvG3UH1YLBmm6_6avoae0RC8i5bLakLTmb5vaRC-AS7SMJ7FmQFij0PWaAjJt2jXluriNEBGbiMZf-W0Ncs-4HiuAKEsey-0KHo9nkbCQbeKe6EWRnpBELkkiqKjvJ11kdwddY65-EcLGoi2cNcwctUviKFKu90gQNmN_LFFlPFgOvKWeGMimJpTEww4l_4-IOdL6clQU-sU7Tt7ROR9a-mVoHIBbaw621hVK7_P3M7lwekqEyEHjbJXx3J5b5H0tqO2J29-CKurloRB5O3xMy3CkWnGW6mPbL_6Ffiyg20_wYhOAetoDPpmr4LCLvq9-n9O4tadtwOJ8F4zJzDwN7aj3Tw/61644bf4709f8/034612e5358dee74c9b4684f389260967340c77b9e5da6f285e73e4cbf6720ee/720p/playlist.m3u8?vsid=33df8b7d4174bfa079868beb47680eac854000d91ab5xWEBx1483x1713247983&vpuid=jzipgjbkmh&source_index=0&session_data=1&preview=1&t=1713247984404
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2018/07/26/84020.jpg", Буратино
 https://ana-yurt.online/uploads/multfilmi/Buratino.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2018/07/26/download.jpg", Дюймовочка
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2018/07/26/download.jpg", Дюймовочка
 https://ana-yurt.online/uploads/multfilmi/Duymovochka.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2018/07/26/104201-970x970.jpg", Карлсон
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2018/07/26/104201-970x970.jpg", Карлсон
 https://ana-yurt.online/uploads/multfilmi/Karlson_part1.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2018/07/26/1009254470.jpg", Лис и Пес
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2018/07/26/1009254470.jpg", Лис и Пес
 https://ana-yurt.online/uploads/multfilmi/Lis_i_pes.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2018/07/26/youloveit_ru_disney_princessy_kartinki_i_21.jpg", Золушка
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2018/07/26/youloveit_ru_disney_princessy_kartinki_i_21.jpg", Золушка
 https://ana-yurt.online/uploads/multfilmi/Zolushka.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2018/07/26/0_12509b_8bc2bf96_orig.png", Львёнок и Черепаха
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2018/07/26/0_12509b_8bc2bf96_orig.png", Львёнок и Черепаха
 https://ana-yurt.online/uploads/multfilmi/arslan_ve_qaplibaqa.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2018/07/26/open-uri20150422-7119-1j43udb_9f5feff5.jpeg", Феи
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2018/07/26/open-uri20150422-7119-1j43udb_9f5feff5.jpeg", Феи
 https://ana-yurt.online/uploads/multfilmi/fei_qirimtatarca_1.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2018/07/26/42860921.jpg", Гадкий утенок
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2018/07/26/42860921.jpg", Гадкий утенок
 https://ana-yurt.online/uploads/multfilmi/gadkiy_utenok.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2018/07/26/r300x423.jpg", Гроза муравьев
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2018/07/26/r300x423.jpg", Гроза муравьев
 https://ana-yurt.online/uploads/multfilmi/groza_muravev.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2018/07/26/84546.jpg", Кот Леопольд
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2018/07/26/84546.jpg", Кот Леопольд
 https://ana-yurt.online/uploads/multfilmi/kot_leopold.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2018/07/26/1316385713_puss_in_boots_ver3_xxlg-bg.jpg", Кот в сапогах
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2018/07/26/1316385713_puss_in_boots_ver3_xxlg-bg.jpg", Кот в сапогах
 https://ana-yurt.online/uploads/multfilmi/kot_v_sapogah.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2018/07/26/229854.jpg", Бемби 2
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2018/07/26/229854.jpg", Бемби 2
 https://ana-yurt.online/uploads/multfilmi/Bembi_2_qirimtatarca.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2018/07/26/20090517000148Ice_Age.jpg", Ледниковый период
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2018/07/26/20090517000148Ice_Age.jpg", Ледниковый период
 https://ana-yurt.online/uploads/multfilmi/lednikoviy_period.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2018/07/26/nu-pogodi-epizodi-7-12-dvd-31.jpg", Ну, погоди!
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2018/07/26/nu-pogodi-epizodi-7-12-dvd-31.jpg", Ну, погоди!
 https://ana-yurt.online/uploads/multfilmi/nu_pogodi.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2018/07/26/r300x4231.jpg", Золотая антилопа
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2018/07/26/r300x4231.jpg", Золотая антилопа
 https://ana-yurt.online/uploads/multfilmi/zolotaya_antilopa.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2018/07/26/325381.jpg", Вверх
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2018/07/26/325381.jpg", Вверх
 https://ana-yurt.online/uploads/multfilmi/vverh.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2018/07/26/114721.jpg", В поисках Немо
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2018/07/26/114721.jpg", В поисках Немо
 https://ana-yurt.online/uploads/multfilmi/v_poiskah_nemo.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2018/07/26/e4b86b43e7f57nu19e50r.jpg", Тачки
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2018/07/26/e4b86b43e7f57nu19e50r.jpg", Тачки
 https://ana-yurt.online/uploads/multfilmi/tachki.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2018/07/26/orig.jpg", Серая шейка
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2018/07/26/orig.jpg", Серая шейка
 https://ana-yurt.online/uploads/multfilmi/seraya_sheyka.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2018/07/26/1019471327.jpg", Рикки-Тикки-Тави
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2018/07/26/1019471327.jpg", Рикки-Тикки-Тави
 https://ana-yurt.online/uploads/multfilmi/riki_tiki_tavi.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2018/07/26/1360230466_kinopoisk.ru-The-Lion-King-1917276.jpg", Король Лев
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2018/07/26/1360230466_kinopoisk.ru-The-Lion-King-1917276.jpg", Король Лев
 https://ana-yurt.online/uploads/multfilmi/qral_arslan.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2018/07/26/r300x423-2.jpg", Ореховый прутик
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2018/07/26/r300x423-2.jpg", Ореховый прутик
 https://ana-yurt.online/uploads/multfilmi/orehoviy_prutik.mp4
-#EXTINF:-1 group-title="Мультфильм ATR" tvg-logo="https://ana-yurt.online/images/2018/07/26/download-11.jpg", Осторожно, обезьянки
+#EXTINF:-1 group-title="Мультфильм" tvg-logo="https://ana-yurt.online/images/2018/07/26/download-11.jpg", Осторожно, обезьянки
 https://ana-yurt.online/uploads/multfilmi/obezyanki.mp4

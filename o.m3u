@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1, мой пк
-http://10.99.8.77:8080
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UXqq0ZvbOnk/hqdefault.jpg", CHARGE - Blender Open Movie
-http://10.99.8.77:80/vod/CHARGE.mp4
